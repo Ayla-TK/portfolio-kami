@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Say Hi.
+title: Say Hi
 permalink: /contact/
 feature-img: "img/color.png"
 ---
